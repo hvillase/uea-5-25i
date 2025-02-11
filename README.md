@@ -2,7 +2,13 @@
 Repositorio para la UEA 5 25I  
 Prof. Hernani Villaseñor
 ## Semana 1
+[VSC](https://code.visualstudio.com/)  
+[HTML](https://developer.mozilla.org/es/docs/Web/HTML)  
+[Git](https://git-scm.com/)  
+[GitHub](https://github.com/)  
 ## Semana 2
+[CSS](https://developer.mozilla.org/es/docs/Web/CSS)  
+[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)  
 ## Semana 3
 ## Semana 4
 ## Semana 5
