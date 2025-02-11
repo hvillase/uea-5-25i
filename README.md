@@ -19,3 +19,6 @@ Prof. Hernani Villaseñor
 ## Semana 10
 ## Semana 11
 ## Semana 12
+## Recursos
+[w3schools](https://www.w3schools.com/)  
+[MDN Web Docs](https://developer.mozilla.org/es/)  
