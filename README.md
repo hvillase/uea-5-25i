@@ -9,6 +9,8 @@ Prof. Hernani Villaseñor
 ## Semana 2
 [CSS](https://developer.mozilla.org/es/docs/Web/CSS)  
 [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)  
+Variables: let, const y var  
+Datos: cadenas (strings) y números  
 ## Semana 3
 ## Semana 4
 ## Semana 5
