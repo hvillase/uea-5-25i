@@ -1,0 +1,14 @@
+body{
+    background-color: coral;
+}
+
+p{
+    color:darkblue; 
+    font-size: 18px; 
+    text-align: center;
+}
+
+/*clases*/
+.body2{
+    background-color: cornsilk;
+}

@@ -1,0 +1,15 @@
+/*fondo*/
+body{background-color: red;}
+
+/*color de texto*/
+p{color:brown;}
+
+/*vincular a index con link en head*/
+
+/*selector de clase con color de letra y tamaño de letra, segundo parrafo class="" */
+
+.nombre{color:darkblue; font-size: 30px;}
+
+h1{color:rgba(0,255,0,0.4); text-align:center;}
+h2{color:#FFFF00; text-align:center;}
+h3{color: hsl(240, 100%, 50%)}
