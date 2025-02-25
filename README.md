@@ -12,6 +12,7 @@ Prof. Hernani Villaseñor
 Variables: let, const y var  
 Datos: cadenas (strings) y números  
 ## Semana 3
+Imágenes y vínculos  
 ## Semana 4
 ## Semana 5
 ## Semana 6
