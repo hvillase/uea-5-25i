@@ -14,7 +14,9 @@ Datos: cadenas (strings) y números
 ## Semana 3
 Imágenes y vínculos  
 ## Semana 4
+div, span, favicon
 ## Semana 5
+Video, audio y métodos de cadena
 ## Semana 6
 ## Semana 7
 ## Semana 8
@@ -26,3 +28,8 @@ Imágenes y vínculos
 [w3schools](https://www.w3schools.com/)  
 [MDN Web Docs](https://developer.mozilla.org/es/)  
 Portal [CreativeCommons](https://search.creativecommons.org/)  
+[OpenShot](https://www.openshot.org/es/) Editor de video  
+[Audacity](https://www.audacityteam.org/) Editor de audio  
+[Gimp](https://www.gimp.org/) Editor de fotografía  
+[InkScape](https://inkscape.org/es/) Imagen vectorial  
+[Krita](https://krita.org/es/) Dibujo  
