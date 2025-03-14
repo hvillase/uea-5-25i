@@ -33,3 +33,4 @@ Portal [CreativeCommons](https://search.creativecommons.org/)
 [Gimp](https://www.gimp.org/) Editor de fotografía  
 [InkScape](https://inkscape.org/es/) Imagen vectorial  
 [Krita](https://krita.org/es/) Dibujo  
+[Kitty](https://sw.kovidgoyal.net/kitty/) Terminal  

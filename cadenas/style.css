@@ -1,0 +1,12 @@
+/* 
+Selector de body fondo y de p color tamaño font
+*/
+
+body{
+    background-color: #18AF00;
+}
+
+p{
+    color: #9f2E00;
+    font-size: 45px;
+}
