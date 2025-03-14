@@ -16,8 +16,10 @@ Imágenes y vínculos
 ## Semana 4
 div, span, favicon
 ## Semana 5
-Video, audio y métodos de cadena
+Video, audio y métodos de cadena  
+[html energy](https://html.energy/)  
 ## Semana 6
+Coloquio 1  
 ## Semana 7
 ## Semana 8
 ## Semana 9
