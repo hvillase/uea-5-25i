@@ -20,17 +20,21 @@ Video, audio y métodos de cadena
 [html energy](https://html.energy/)  
 ## Semana 6
 Coloquio 1  
+Proyecto web 1  
 ## Semana 7
+Proyecto web 2  
+Desplegado de sitios web
 ## Semana 8
 ## Semana 9
 ## Semana 10
 ## Semana 11
 ## Semana 12
 ## Recursos
-[w3schools](https://www.w3schools.com/)  
-[MDN Web Docs](https://developer.mozilla.org/es/)  
+[w3schools](https://www.w3schools.com/) Tutoriales web  
+[MDN Web Docs](https://developer.mozilla.org/es/) Tutoriales web  
 Portal [CreativeCommons](https://search.creativecommons.org/)  
 [OpenShot](https://www.openshot.org/es/) Editor de video  
+[kdenlive](https://kdenlive.org/) Editor de video
 [Audacity](https://www.audacityteam.org/) Editor de audio  
 [Gimp](https://www.gimp.org/) Editor de fotografía  
 [InkScape](https://inkscape.org/es/) Imagen vectorial  
