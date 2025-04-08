@@ -1,5 +1,5 @@
 # Resonancias
-Proyecto del eje integrador de la UEA V. Licenciatura de ACD, UAM Lerma, México.
+Proyecto del eje integrador de la UEA V.   Licenciatura de ACD, UAM Lerma, México.
 
 ## Integrantes
 nombre apelido, 
