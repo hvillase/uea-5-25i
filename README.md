@@ -1,3 +1,28 @@
+# Resonancias
+Proyecto del eje integrador de la UEA V. Licenciatura de ACD, UAM Lerma, México.
+
+## Integrantes
+nombre apelido, 
+
+## Resumen
+Esta uea trata de poryectos web en línea.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # uea-5-25i
 Repositorio para la UEA 5 25I  
 Prof. Hernani Villaseñor
@@ -34,7 +59,7 @@ Desplegado de sitios web
 [MDN Web Docs](https://developer.mozilla.org/es/) Tutoriales web  
 Portal [CreativeCommons](https://search.creativecommons.org/)  
 [OpenShot](https://www.openshot.org/es/) Editor de video  
-[kdenlive](https://kdenlive.org/) Editor de video
+[kdenlive](https://kdenlive.org/) Editor de video  
 [Audacity](https://www.audacityteam.org/) Editor de audio  
 [Gimp](https://www.gimp.org/) Editor de fotografía  
 [InkScape](https://inkscape.org/es/) Imagen vectorial  
