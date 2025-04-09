@@ -1,28 +1,3 @@
-# Resonancias
-Proyecto del eje integrador de la UEA V.   Licenciatura de ACD, UAM Lerma, México.
-
-## Integrantes
-nombre apelido, 
-
-## Resumen
-Esta uea trata de poryectos web en línea.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # uea-5-25i
 Repositorio para la UEA 5 25I  
 Prof. Hernani Villaseñor
