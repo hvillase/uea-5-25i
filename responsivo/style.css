@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+.izquierdo{
+background-color: aliceblue;
+float:left;
+width: 33%;
+height: 800px;
+padding: 20px;
+}
+
+.centro{
+background-color: aquamarine;
+float:left;
+width: 33%;
+height: 800px;
+padding: 20px;
+}
+
+.derecho{
+background-color:cornsilk;
+float:left;
+width: 33%;
+height: 800px;
+padding: 20px;
+}
+
+.alineado{
+  margin:auto;
+  width:90%;
+}
+
+@media screen and (max-width: 800px) {
+    .izquierdo, .centro, .derecho {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
+

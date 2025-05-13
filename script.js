@@ -1,6 +1,7 @@
+// esto es comentario
 console.log("aquí está la consola");
-window.alert("ahhhhh");
-document.write("Esto es texto escrito dentro del script js!!!");
+//window.alert("ahhhhh");
+//document.write("Esto es texto escrito dentro del script js!!!");
 
 document.getElementById("demo").innerHTML="cadena de caracteres";
 

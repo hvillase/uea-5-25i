@@ -8,3 +8,14 @@ p{
     margin: 24px;
     text-align: center;
 }
+
+div{
+    color: #ffafff;
+    font-size: 70px;
+    background-color:cadetblue;
+    padding: 120px;
+    border: 5px solid greenyellow;
+    border-radius: 20px;
+    margin: 100px;
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+.izquierda{
+    background-color: aqua;
+    font-size: 20px;
+    padding: 10px;
+    float: left;
+    width: 20%;
+}
+
+.centro{
+    background-color: blueviolet;
+    font-size: 20px;
+    padding: 10px;
+    float: left;
+    width: 60%;
+}
+
+.derecha{
+    background-color: darkcyan;
+    font-size: 20px;
+    padding: 10px;
+    float: left;
+    width: 20%;
+}
+
+@media screen and (max-width:800px) {
+    .izquierda, .centro, .derecha {
+        width: 100%;
+    }
+}
